@@ -1,7 +1,9 @@
 # -_aplicacion_java_crud_oracle_database_19c_- :. 
 # Aplicación Java CRUD con Oracle Database 19c :
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/00b33d6d-d81a-407c-8a49-ff0b6bfb8e4e" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/00b33d6d-d81a-407c-8a49-ff0b6bfb8e4e" />    
+
+<img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/70ca9af9-9171-44d8-bd65-f9e2394dc7b7" />    
 
 ## Descripción General:
 
