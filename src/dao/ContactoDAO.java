@@ -54,7 +54,7 @@ public class ContactoDAO {
             ps.setString(2, c.getCorreo());
             ps.setInt(3, c.getId());
             ps.executeUpdate();
-            
+
         } catch (Exception e) {
             e.printStackTrace();
         }
