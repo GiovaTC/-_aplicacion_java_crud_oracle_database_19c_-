@@ -7,6 +7,8 @@
 
 <img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/050656c1-7ecd-448d-91bb-8f3ebf3c3638" />    
 
+<img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/bec5046e-e7c8-451d-acad-1fb3989425e3" />    
+
 ## Descripción General:
 
 A continuación se presenta una **solución completa, profesional y lista para ejecutar en IntelliJ IDEA**, que cumple exactamente con lo solicitado :
